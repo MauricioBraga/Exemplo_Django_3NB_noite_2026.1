@@ -1,0 +1,1 @@
+# Exemplo_Django_3NB_noite_2026.1
